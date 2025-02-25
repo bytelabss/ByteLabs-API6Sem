@@ -1,0 +1,6 @@
+[submodule "backend-api6"]
+	path = backend-api6
+	url = https://github.com/bytelabss/backend-api6
+[submodule "frontend-api6"]
+	path = frontend-api6
+	url = https://github.com/bytelabss/frontend-api6
