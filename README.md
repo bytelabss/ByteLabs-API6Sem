@@ -235,18 +235,8 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                         <tbody>
                                 <tr>
                                         <th>
-                                                <a href="https://github.com/larissa-fernanda">
-                                                        <img src="https://avatars.githubusercontent.com/u/111530654?v=4" width="75px" height="75px"/>
-                                                </a>
-                                        </th>
-                                        <th>
                                                 <a href="https://github.com/aleclr">
                                                         <img src="https://avatars.githubusercontent.com/u/43094055?v=4" width="75px" height="75px"/>
-                                                </a>
-                                        </th>
-                                        <th>
-                                                <a href="https://github.com/Antonio-Zago">
-                                                        <img src="https://avatars.githubusercontent.com/u/80283126?v=4" width="75px" height="75px"/>
                                                 </a>
                                         </th>
                                         <th>
@@ -255,24 +245,24 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                                 </a>
                                         </th>
                                         <th>
+                                                <a href="https://github.com/Antonio-Zago">
+                                                        <img src="https://avatars.githubusercontent.com/u/80283126?v=4" width="75px" height="75px"/>
+                                                </a>
+                                        </th>
+                                        <th>
                                                 <a href="https://github.com/dutrajy">
                                                         <img src="https://avatars.githubusercontent.com/u/122806886?v=4" width="75px" height="75px"/>
+                                                </a>
+                                        </th>
+                                        <th>
+                                                <a href="https://github.com/larissa-fernanda">
+                                                        <img src="https://avatars.githubusercontent.com/u/111530654?v=4" width="75px" height="75px"/>
                                                 </a>
                                         </th>
                                 </tr>
                                 <tr>
                                         <th>
-                                                <a href="https://www.linkedin.com/in/larissa-reis-693568250">
-                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                                                </a>
-                                        </th>
-                                        <th>
                                                 <a href="linkedin.com/in/alecrondel">
-                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                                                </a>
-                                        </th>
-                                        <th>
-                                                <a href="https://www.linkedin.com/in/antonio-zago-24230b206">
                                                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                                                 </a>
                                         </th>
@@ -282,7 +272,17 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                                 </a>
                                         </th>
                                         <th>
+                                                <a href="https://www.linkedin.com/in/antonio-zago-24230b206">
+                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                                                </a>
+                                        </th>
+                                        <th>
                                                 <a href="https://www.linkedin.com/in/dutrajy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                                                </a>
+                                        </th>
+                                        <th>
+                                                <a href="https://www.linkedin.com/in/larissa-reis-693568250">
                                                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                                                 </a>
                                         </th>
