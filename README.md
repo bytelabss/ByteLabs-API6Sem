@@ -230,7 +230,7 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <th>Cauana Dias - Product Owner</th>
                                 <th>Antônio Zago - Developer</th>
                                 <th>Jhonny Dutra - Developer</th>
-                                <th>Larissa Reis - Scrum Master</th>
+                                <th>Larissa Reis - Developer</th>
                         <thead>
                         <tbody>
                                 <tr>
