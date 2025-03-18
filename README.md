@@ -226,24 +226,17 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
         <div align="center">
                 <table>
                         <thead>
-                                <th>Larissa Reis - Scrum Master</th>
-                                <th>Willian Caboski - Product Owner</th>
-                                <th>Alec Rondel - Developer</th>
+                                <th>Alec Rondel - Scrum Master</th>
+                                <th>Cauana Dias - Product Owner</th>
                                 <th>Antônio Zago - Developer</th>
-                                <th>Cauana Dias - Developer</th>
                                 <th>Jhonny Dutra - Developer</th>
-                                <th>Nicolas Cursino - Developer</th>
+                                <th>Larissa Reis - Scrum Master</th>
                         <thead>
                         <tbody>
                                 <tr>
                                         <th>
                                                 <a href="https://github.com/larissa-fernanda">
                                                         <img src="https://avatars.githubusercontent.com/u/111530654?v=4" width="75px" height="75px"/>
-                                                </a>
-                                        </th>
-                                        <th>
-                                                <a href="https://github.com/DankoCaboski">
-                                                        <img src="https://avatars.githubusercontent.com/u/109988937?v=4" width="75px" height="75px"/>
                                                 </a>
                                         </th>
                                         <th>
@@ -266,20 +259,10 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                                         <img src="https://avatars.githubusercontent.com/u/122806886?v=4" width="75px" height="75px"/>
                                                 </a>
                                         </th>
-                                        <th>
-                                                <a href="https://github.com/nicursino">
-                                                        <img src="https://avatars.githubusercontent.com/u/67070670?v=4" width="75px" height="75px"/>
-                                                </a>
-                                        </th>
                                 </tr>
                                 <tr>
                                         <th>
                                                 <a href="https://www.linkedin.com/in/larissa-reis-693568250">
-                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                                                </a>
-                                        </th>
-                                        <th>
-                                                <a href="">
                                                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                                                 </a>
                                         </th>
@@ -300,11 +283,6 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                         </th>
                                         <th>
                                                 <a href="https://www.linkedin.com/in/dutrajy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                                                </a>
-                                        </th>
-                                        <th>
-                                                <a href="https://www.linkedin.com/in/nicolas-magarifuchi-406935184">
                                                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                                                 </a>
                                         </th>
