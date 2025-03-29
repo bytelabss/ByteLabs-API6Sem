@@ -4,3 +4,6 @@
 [submodule "frontend-api6"]
 	path = frontend-api6
 	url = https://github.com/bytelabss/frontend-api6
+[submodule "etl-api6"]
+	path = etl-api6
+	url = https://github.com/bytelabss/etl-dataforest.git
