@@ -121,86 +121,62 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
                                 <tr>
                                         <td>US01</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para poder avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria</td>
+                                        <td align="justify">Como engenheiro ambiental, quero cadastrar, editar e visualizar novas áreas reflorestadas com informações detalhadas, para que o sistema possa monitorá-las corretamente.</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado, para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
+                                        <td align="justify">Como produtor, quero visualizar minhas áreas de plantio atualizadas em um mapa interativo, para acompanhar a distribuição geográfica e evolução.</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como gerente de RH, quero visualizar a quantidade de contratações realizadas por cada processo seletivo em um período específico, para que eu possa monitorar o progresso e a eficiência dos processos seletivos</td>
+                                        <td align="justify">Como administrador, quero definir permissões de acesso para diferentes usuários (engenheiro ambiental e produtores), para garantir segurança e conformidade com a LGPD.</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US04</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como analista de RH, quero visualizar a quantidade de contratações realizadas por cada participante de RH, em um período específico, para que eu possa avaliar a produtividade e desempenho individual dos recrutadores</td>
+                                        <td align="justify">Como engenheiro ambiental, quero ter acesso a uma base de dados confiável sobre reflorestamento do Brasil com dados sobre características do solo e da área, para compreender as necessidades e possibilidades de um terreno para reflorestamento.</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US05</td>
                                         <td>7</td>
-                                        <td align="justify">Eu, como gerente de RH, quero um processo de ETL que extraia, transforme e carregue os dados de processos seletivos, vagas, participantes de RH, contratações e tempos envolvidos, para que eu possa consolidar essas informações em um data warehouse e realizar análises mais eficazes para melhorar as decisões de recrutamento</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero que todas as ações do sistema sejam registradas em logs, para fins de auditoria e conformidade com a LGPD.</td>
                                         <td>1</td>
                                 </tr>
                                 <tr>
                                         <td>US06</td>
                                         <td>3</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero receber recomendações sobre as melhores espécies para cada área, considerando as condições climáticas e características do solo, para garantir um reflorestamento eficiente.</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US07</td>
                                         <td>3</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder receber relatórios automáticos sazonais, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de pragas ou mudanças ambientais adversas, para tomar medidas preventivas.</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
                                         <td>1</td>
-                                        <td align="justify">Eu, como analista de RH, quero visualizar a pontuação de cada candidato por critério de avaliação, para cada vaga, para que eu possa avaliar objetivamente o desempenho dos candidatos e tomar decisões mais informadas no processo de contratação</td>
+                                        <td align="justify">Como um produtor, quero visualizar diferentes estratégias de plantio, para avaliar seus impactos antes de implementar mudanças.</td>
                                         <td>2</td>
                                 </tr>
                                 <tr>
                                         <td>US09</td>
                                         <td>5</td>
-                                        <td align="justify">Eu, como analista de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento produtividade e riscos, para facilitar a tomada de decisão.</td>
                                         <td>3</td>
                                 </tr>
                                 <tr>
                                         <td>US10</td>
                                         <td>5</td>
-                                        <td align="justify">Eu, como gerente de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td align="justify">Como um analista ambiental, quero gerar relatórios sobre o reflorestamento.</td>
                                         <td>3</td>
-                                </tr>
-                                <tr>
-                                        <td>US11</td>
-                                        <td>2</td>
-                                        <td align="justify">Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas na base de dados, para poder facilitar meu acesso</td>
-                                        <td>3</td>
-                                </tr>
-                                <tr>
-                                        <td>US12</td>
-                                        <td>6</td>
-                                        <td align="justify">Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros usuários em suas atividades</td>
-                                        <td>4</td>
-                                </tr>
-                                <tr>
-                                        <td>US13</td>
-                                        <td>6</td>
-                                        <td align="justify">Eu, como gerente de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
-                                        <td>4</td>
-                                </tr>
-                                <tr>
-                                        <td>US14</td>
-                                        <td>4</td>
-                                        <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acessar o sistema</td>
-                                        <td>4</td>
                                 </tr>
                         </tbody>
                 </table>
