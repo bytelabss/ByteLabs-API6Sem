@@ -213,10 +213,9 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 
 | *Sprints*  | *Cronograma*             | 
 | ---------- | ----------               | 
-|  [Sprint 1](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-1)  |  09/09 a 29/09           | 
-|  [Sprint 2](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-2)  |  30/09 a 20/10           | 
-|  [Sprint 3](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-3)  |  21/10 a 10/11           | 
-|  [Sprint 4](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-4)  |  11/11 a 01/12           |    
+|  [Sprint 1](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Sprint-1)  |  10/03 a 30/03           | 
+|  [Sprint 2](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-2)  |  07/04 a 27/04           | 
+|  [Sprint 3](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Sprint-3)  |  05/05 a 25/05           |    
 
 <span id="equipe">
 
