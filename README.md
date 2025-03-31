@@ -1,6 +1,6 @@
 <span id="topo">
 
-# DataViz - ByteLabss
+# Data Forest - ByteLabss
 
 <p align="center">
         <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="justify">
-A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente. O cliente parceiro deste semestre é a empresa <a href="https://pro4tech.com.br/">Pro4Tech</a>.
+A projeto Data Forest da equipe ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente.
 </p>
 
 <span id="problema">
@@ -47,7 +47,7 @@ A projeto de DataViz do ByteLabs é resultado do Aprendizado por Projetos Integr
 ### O Problema 🤔
 
 <p align="justify">
-O problema apresentado pela empresa <a href="https://pro4tech.com.br/">Pro4Tech</a> está relacionado à eficiência e à eficácia no processo de recrutamento e seleção de pessoal. Atualmente, a empresa busca otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados. A "dor" central do cliente inclui a necessidade de centralizar e visualizar dados dispersos, permitir uma tomada de decisão estratégica, gerar relatórios personalizados e automatizar processos manuais, além de possibilitar a integração de dados de diferentes fontes.
+O problema apresentado está relacionado ao meio ambiente e o processo de reflorestamento de uma área. Precisamos atuar como facilitadores no processo de reflorestamento, desde a visualização da área do projeto em um mapa, até nas próprias estratégias de reflorestamento e no acompanhamento do processo como um todo.
 </p>
 
 <span id="objetivo">
@@ -55,21 +55,24 @@ O problema apresentado pela empresa <a href="https://pro4tech.com.br/">Pro4Tech<
 ### Objetivo do Projeto 🎯
 
 <p align="justify">
-O projeto trata de uma plataforma focada na análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos como:
+A solução proposta pela equipe é desenvolver uma plataforma web, que permite o cadastro de uma área geográfica, e a partir dela, fazer um cruzamento com nossa base de dados e nossos modelos de inteligência artificial. O resultado desse cruzamento será um acompanhamento em tempo real e estratégias personalizadas para garantir a minimização de riscos e a maior taxa de sucesso possível para o projeto de reflorestamento. Além de insights valiosos como: 
 </p>
 
-- <p align="justify">Métricas de eficiência no recrutamento (ex. tempo médio de contratação, quantidade de contratações por processo seletivo).</p>
-- <p align="justify">Identificação de padrões e tendências para otimizar o processo de seleção.</p>
-- <p align="justify">Personalização de relatórios conforme as necessidades específicas dos gestores.</p>
+- <p align="justify">Métricas de saúde florestal da área. (ex. oxigenação, hidratação e tempo de vida do plantio).</p>
+- <p align="justify">Identificação de riscos e cuidados a ser tomados a partir de dados geográficos e climáticos da área.</p>
+- <p align="justify">Indicação de espécies de plantas para o plantio, baseados na época do ano e na longevidade desejada.</p>
+- <p align="justify">Geração de relatórios para acompanhamento retroativo do processo de reflorestamento.</p>
 
 <p align="justify">
-A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de CRUD sobre os dados operacionais, exceto por permissões, dashboards e usuários.
+A plataforma será voltada para produtores agrícolas, engenheiros ambientais e parceiros da empresa.
 </p>
 
 <span id="requisitos">
 
 ### Requisitos Funcionais do Projeto 📝
 
+- WIP
+<!--
 1. [Dashboard Interativo em Tempo Real](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Dashboard%20Interativo%20em%20Tempo%20Real%3A)
 2. [Personalização de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.%20Personaliza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%3A)
 3. [Geração Automática de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=3.%20Gera%C3%A7%C3%A3o%20Autom%C3%A1tica%20de%20Relat%C3%B3rios%3A)
@@ -77,32 +80,20 @@ A plataforma é voltada para gerentes de RH e analistas, sem funcionalidades de 
 5. [Análises Predefinidas e Configuração de Alertas](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=5.%20An%C3%A1lises%20Predefinidas%20e%20Configura%C3%A7%C3%A3o%20de%20Alertas%3A)
 6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
 7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
-
+-->
 <span id="desenvolvimento">
 
 ### Requisitos Não funcionais do Projeto
 
+<!--
 1. [Manual do Usuário](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
 2. [Guia de instalação](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
 3. [Modelagem do Banco de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=Modelagem%20de%20Banco%20de%20Dados%20Eficiente%3A)
 4. [Implementação de protocolos de segurança](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.-,Seguran%C3%A7a%20de%20Dados%3A,-Implementa%C3%A7%C3%A3o%20de%20protocolos)
-
+-->
 ### Regras de Desenvolvimento 📏
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
-
-### Regras de DevOps 📏
-
-
-<p align="center">
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-CI">CI</a>  |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Deploy">Deploy</a>  |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-QA">QA</a>  |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Requirements-Tracking">Requirements Tracking</a>  |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Testes-de-Integra%C3%A7%C3%A3o">Testes de Integração</a>  |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Testes-Unit%C3%A1rios">Testes Unitários</a> |
-    <a href="https://github.com/bytelabss/ByteLabss-API5sem/wiki/%5BDevOps%5D-Versionamento-de-Banco-de-Dados">Versionamento de Banco de Dados</a>
-</p>
 
 <span id="backlog-do-produto">
 
