@@ -85,6 +85,7 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 
 ### Requisitos Não funcionais do Projeto
 
+- WIP
 <!--
 1. [Manual do Usuário](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
 2. [Guia de instalação](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
