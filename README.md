@@ -39,7 +39,7 @@
 </p>
 
 <p align="justify">
-A projeto Data Forest da equipe ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado por uma empresa parceira. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente.
+A projeto Data Forest da equipe ByteLabs é resultado do Aprendizado por Projetos Integrados da Faculdade de Tecnologia do Estado de São Paulo (FATEC) de São José dos Campos. A cada semestre, os alunos são desafiados a desenvolver um projeto de software, com base em um problema real apresentado pela empresa parceira Kersys. O projeto é desenvolvido em sprints, com entregas parciais e um produto final que atenda às necessidades do cliente.
 </p>
 
 <span id="problema">
@@ -97,6 +97,16 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
 
 <span id="backlog-do-produto">
+
+### Definition of Ready (D.O.R)
+
+Critérios gerais:
+- A user story foi detalhada e compreendida por todos os envolvidos.
+- Os critérios de aceitação estão claramente definidos.
+- O backlog contém todas as informações necessárias.
+- O design básico da interface com a ideia principal.
+- O ambiente de desenvolvimento está preparado para implementação.
+
 
 ## Backlog do Produto 📍
 
