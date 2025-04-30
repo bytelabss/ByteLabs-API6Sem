@@ -1,9 +1,12 @@
 [submodule "backend-api6"]
 	path = backend-api6
 	url = https://github.com/bytelabss/backend-api6
+	branch = main
 [submodule "frontend-api6"]
 	path = frontend-api6
 	url = https://github.com/bytelabss/frontend-api6
+	branch = main
 [submodule "etl-api6"]
 	path = etl-api6
 	url = https://github.com/bytelabss/etl-dataforest.git
+	branch = main
