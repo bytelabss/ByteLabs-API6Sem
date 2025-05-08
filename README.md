@@ -71,7 +71,7 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 
 ### Requisitos Funcionais do Projeto 📝
 
-[Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Dashboard%20Interativo%20em%20Tempo%20Real%3A)
+[Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Proposta-de-Solu%C3%A7%C3%A3o:-Projeto-Dataforest#requisitos)
 
 1. 
 <!--
