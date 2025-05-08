@@ -112,13 +112,43 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 
 ### Requisitos Não funcionais do Projeto
 
-- WIP
-<!--
-1. [Manual do Usuário](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
-2. [Guia de instalação](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
-3. [Modelagem do Banco de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=Modelagem%20de%20Banco%20de%20Dados%20Eficiente%3A)
-4. [Implementação de protocolos de segurança](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.-,Seguran%C3%A7a%20de%20Dados%3A,-Implementa%C3%A7%C3%A3o%20de%20protocolos)
--->
+[Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Proposta-de-Solu%C3%A7%C3%A3o:-Projeto-Dataforest#requisitos)
+
+<table>
+        <tr>
+                <td>
+                        1.
+                </td>
+                <td>
+                        Documentação das tecnologias e banco de dados escolhidos para o projeto, com justificativas, e documentação das rotas da API criada no backend.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        2.
+                </td>
+                <td>
+                        Implementação de aspectos da LGPD para garantir a segurança e a proteção do usuário durante a manipulação de seus dados.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        3.
+                </td>
+                <td>
+                        Criação de um repositório de documentação especial sobre o produto.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        4.
+                </td>
+                <td>
+                        Criação do modelo MER do banco de dados relacional.
+                </td>
+        </tr>
+</table>
+
 ### Regras de Desenvolvimento 📏
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
