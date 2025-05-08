@@ -73,10 +73,40 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 
 [Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Proposta-de-Solu%C3%A7%C3%A3o:-Projeto-Dataforest#requisitos)
 
-1. Implementação de um sistema de predição, se utilizando de modelos de Machine Learning, capaz de analisar uma área geográfica cadastrada, e retornar qual a melhor espécie para plantio, e qual a melhor estratégia a ser seguida para o processo de reflorestamento, se baseando em dados reais da área no Brasil ao longo do tempo.
-2. Área para cadastro e visualização de áreas, se utilizando de coordenadas geográficas do Brasil.
-3. Banco de dados com dados reais geográficos das áreas do Brasil, para ser usado para treinamento e utilização dos modelos de Machine Learning.
-4. Área para visualização das áreas cadastradas pelo usuário, além de relatórios a respeito das espécies a serem plantadas, e alertas para caso a área precise de atenção ou esteja sob risco de alterações climáticas.
+<table>
+        <tr>
+                <td>
+                        1.
+                </td>
+                <td>
+                        Implementação de um sistema de predição, se utilizando de modelos de Machine Learning, capaz de analisar uma área geográfica cadastrada, e retornar qual a melhor espécie para plantio, e qual a melhor estratégia a ser seguida para o processo de reflorestamento, se baseando em dados reais da área no Brasil ao longo do tempo.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        2.
+                </td>
+                <td>
+                        Área para cadastro e visualização de áreas, se utilizando de coordenadas geográficas do Brasil.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        3.
+                </td>
+                <td>
+                        Banco de dados com dados reais geográficos das áreas do Brasil, para ser usado para treinamento e utilização dos modelos de Machine Learning.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        4.
+                </td>
+                <td>
+                        Área para visualização das áreas cadastradas pelo usuário, além de relatórios a respeito das espécies a serem plantadas, e alertas para caso a área precise de atenção ou esteja sob risco de alterações climáticas.
+                </td>
+        </tr>
+</table>
 
 <span id="desenvolvimento">
 
