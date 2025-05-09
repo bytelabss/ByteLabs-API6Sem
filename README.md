@@ -171,71 +171,82 @@ Critérios gerais:
         <div align="center">
                 <table>
                         <thead>
-                                <th>Ranking</th>
+                                <th>ID</th>
                                 <th>Requisito <b> funcional</b></th>
                                 <th>User Story</th>
                                 <th>Sprint</th>
+                                <th>Jira Link</th>
                         </thead>
                         <tbody>
                                 <tr>
                                         <td>US01</td>
-                                        <td>-</td>
+                                        <td>2</td>
                                         <td align="justify">Como engenheiro ambiental, quero cadastrar, editar e visualizar novas áreas reflorestadas com informações detalhadas, para que o sistema possa monitorá-las corretamente.</td>
                                         <td>1</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-1">LABS-1</a></td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
-                                        <td>-</td>
+                                        <td>2</td>
                                         <td align="justify">Como produtor, quero visualizar minhas áreas de plantio atualizadas em um mapa interativo, para acompanhar a distribuição geográfica e evolução.</td>
                                         <td>1</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-3">LABS-3</a></td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
                                         <td>-</td>
                                         <td align="justify">Como administrador, quero definir permissões de acesso para diferentes usuários (engenheiro ambiental e produtores), para garantir segurança e conformidade com a LGPD.</td>
-                                        <td>1</td>
+                                        <td>2</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-4">LABS-4</a></td>
                                 </tr>
                                 <tr>
                                         <td>US04</td>
-                                        <td>-</td>
+                                        <td>3</td>
                                         <td align="justify">Como engenheiro ambiental, quero ter acesso a uma base de dados confiável sobre reflorestamento do Brasil com dados sobre características do solo e da área, para compreender as necessidades e possibilidades de um terreno para reflorestamento.</td>
                                         <td>1</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-2">LABS-2</a></td>
                                 </tr>
                                 <tr>
                                         <td>US05</td>
                                         <td>-</td>
-                                        <td align="justify">Como um engenheiro ambiental, quero que todas as ações do sistema sejam registradas em logs, para fins de auditoria e conformidade com a LGPD.</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero que as ações do sistema estejam em conformidade com a LGPD.</td>
                                         <td>-</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-26">LABS-26</a></td>
                                 </tr>
                                 <tr>
                                         <td>US06</td>
-                                        <td>-</td>
+                                        <td>1</td>
                                         <td align="justify">Como um engenheiro ambiental, quero receber recomendações sobre as melhores espécies para cada área, considerando as condições climáticas e características do solo, para garantir um reflorestamento eficiente.</td>
-                                        <td>-</td>
+                                        <td>2</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-31">LABS-31</a></td>
                                 </tr>
                                 <tr>
                                         <td>US07</td>
-                                        <td>-</td>
-                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de pragas ou mudanças ambientais adversas, para tomar medidas preventivas.</td>
-                                        <td>-</td>
+                                        <td>4</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de condições ambientais adversas, para tomar medidas preventivas.</td>
+                                        <td>3</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-32">LABS-32</a></td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
-                                        <td>-</td>
+                                        <td>1</td>
                                         <td align="justify">Como um produtor, quero visualizar diferentes estratégias de plantio, para avaliar seus impactos antes de implementar mudanças.</td>
-                                        <td>-</td>
+                                        <td>2</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-33">LABS-33</a></td>
                                 </tr>
                                 <tr>
                                         <td>US09</td>
-                                        <td>-</td>
-                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento produtividade e riscos, para facilitar a tomada de decisão.</td>
-                                        <td>-</td>
+                                        <td>4</td>
+                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento de áreas sob riscos, para facilitar a tomada de decisão.</td>
+                                        <td>3</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-35">LABS-35</a></td>
                                 </tr>
                                 <tr>
                                         <td>US10</td>
-                                        <td>-</td>
+                                        <td>4</td>
                                         <td align="justify">Como um analista ambiental, quero gerar relatórios sobre o reflorestamento.</td>
-                                        <td>-</td>
+                                        <td>3</td>
+                                        <td><a href="https://bytelabss.atlassian.net/browse/LABS-36">LABS-36</a></td>
                                 </tr>
                         </tbody>
                 </table>
