@@ -167,21 +167,21 @@ Critérios gerais:
                         <tbody>
                                 <tr>
                                         <td>US01</td>
-                                        <td>2</td>
+                                        <td text-align="center">2</td>
                                         <td align="justify">Como engenheiro ambiental, quero cadastrar, editar e visualizar novas áreas reflorestadas com informações detalhadas, para que o sistema possa monitorá-las corretamente.</td>
                                         <td>1</td>
                                         <td><a href="https://bytelabss.atlassian.net/browse/LABS-1">LABS-1</a></td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
-                                        <td>2</td>
+                                        <td align="center">2</td>
                                         <td align="justify">Como produtor, quero visualizar minhas áreas de plantio atualizadas em um mapa interativo, para acompanhar a distribuição geográfica e evolução.</td>
                                         <td>1</td>
                                         <td><a href="https://bytelabss.atlassian.net/browse/LABS-3">LABS-3</a></td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
-                                        <td>-</td>
+                                        <td align="justify">-</td>
                                         <td align="justify">Como administrador, quero definir permissões de acesso para diferentes usuários (engenheiro ambiental e produtores), para garantir segurança e conformidade com a LGPD.</td>
                                         <td>2</td>
                                         <td><a href="https://bytelabss.atlassian.net/browse/LABS-4">LABS-4</a></td>
