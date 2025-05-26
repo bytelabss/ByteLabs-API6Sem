@@ -1,21 +1,8 @@
 <span id="topo">
 
-# Data Forest - ByteLabss
+# Data Forest - ByteLabs
 
-<p align="center">
-        <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-        <img src="https://img.shields.io/badge/spark-%2523ED8B00.svg?style=for-the-badge&logo=apache%20spark&color=white" alt="Apache Spark">
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-        <img src="https://img.shields.io/badge/mysql-%25230A0FFF.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue" alt="MySQL">
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-<h2 align="right">
-        <img src="https://img.shields.io/badge/status-ongoing-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
-        <img src="https://img.shields.io/badge/sprint-2-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
-</h2>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <span id="indice">
 
@@ -71,27 +58,84 @@ A plataforma será voltada para produtores agrícolas, engenheiros ambientais e 
 
 ### Requisitos Funcionais do Projeto 📝
 
-- WIP
-<!--
-1. [Dashboard Interativo em Tempo Real](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Dashboard%20Interativo%20em%20Tempo%20Real%3A)
-2. [Personalização de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.%20Personaliza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%3A)
-3. [Geração Automática de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=3.%20Gera%C3%A7%C3%A3o%20Autom%C3%A1tica%20de%20Relat%C3%B3rios%3A)
-4. [Controle de Acesso e Permissões](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=4.%20Controle%20de%20Acesso%20e%20Permiss%C3%B5es%3A)
-5. [Análises Predefinidas e Configuração de Alertas](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=5.%20An%C3%A1lises%20Predefinidas%20e%20Configura%C3%A7%C3%A3o%20de%20Alertas%3A)
-6. [Compartilhamento de Relatórios](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=6.%20Compartilhamento%20de%20Relat%C3%B3rios%3A)
-7. [Importação de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=7.%20Importa%C3%A7%C3%A3o%20de%20Dados%3A)
--->
+[Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Proposta-de-Solu%C3%A7%C3%A3o:-Projeto-Dataforest#requisitos)
+
+<table>
+        <tr>
+                <td>
+                        1.
+                </td>
+                <td>
+                        Implementação de um sistema de predição, se utilizando de modelos de Machine Learning, capaz de analisar uma área geográfica cadastrada, e retornar qual a melhor espécie para plantio, e qual a melhor estratégia a ser seguida para o processo de reflorestamento, se baseando em dados reais da área no Brasil ao longo do tempo.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        2.
+                </td>
+                <td>
+                        Área para cadastro e visualização de áreas, se utilizando de coordenadas geográficas do Brasil.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        3.
+                </td>
+                <td>
+                        Banco de dados com dados reais geográficos das áreas do Brasil, para ser usado para treinamento e utilização dos modelos de Machine Learning.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        4.
+                </td>
+                <td>
+                        Área para visualização das áreas cadastradas pelo usuário, além de relatórios a respeito das espécies a serem plantadas, e alertas para caso a área precise de atenção ou esteja sob risco de alterações climáticas.
+                </td>
+        </tr>
+</table>
+
 <span id="desenvolvimento">
 
 ### Requisitos Não funcionais do Projeto
 
-- WIP
-<!--
-1. [Manual do Usuário](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
-2. [Guia de instalação](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=1.%20Manual%20de%20Usu%C3%A1rio%20e%20Guia%20de%20Instala%C3%A7%C3%A3o%3A)
-3. [Modelagem do Banco de Dados](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=Modelagem%20de%20Banco%20de%20Dados%20Eficiente%3A)
-4. [Implementação de protocolos de segurança](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Solu%C3%A7%C3%A3o-dos-Requisitos-para-a-plataforma-de-DataViz#2-requisitos-funcionais:~:text=2.-,Seguran%C3%A7a%20de%20Dados%3A,-Implementa%C3%A7%C3%A3o%20de%20protocolos)
--->
+[Acesse a documentação completa dos requisitos](https://github.com/bytelabss/ByteLabs-API6Sem/wiki/Proposta-de-Solu%C3%A7%C3%A3o:-Projeto-Dataforest#requisitos)
+
+<table>
+        <tr>
+                <td>
+                        1.
+                </td>
+                <td>
+                        Documentação das tecnologias e banco de dados escolhidos para o projeto, com justificativas, e documentação das rotas da API criada no backend.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        2.
+                </td>
+                <td>
+                        Implementação de aspectos da LGPD para garantir a segurança e a proteção do usuário durante a manipulação de seus dados.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        3.
+                </td>
+                <td>
+                        Criação de um repositório de documentação especial sobre o produto.
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        4.
+                </td>
+                <td>
+                        Criação do modelo MER do banco de dados relacional.
+                </td>
+        </tr>
+</table>
+
 ### Regras de Desenvolvimento 📏
 
 [Regras de Desenvolvimento](https://github.com/bytelabss/ByteLabss-API5sem/wiki/Regras-de-Desenvolvimento)
@@ -114,71 +158,82 @@ Critérios gerais:
         <div align="center">
                 <table>
                         <thead>
-                                <th>Ranking</th>
+                                <th>ID</th>
                                 <th>Requisito <b> funcional</b></th>
                                 <th>User Story</th>
                                 <th>Sprint</th>
+                                <th>Jira Link</th>
                         </thead>
                         <tbody>
                                 <tr>
                                         <td>US01</td>
-                                        <td>-</td>
+                                        <td align="center">2</td>
                                         <td align="justify">Como engenheiro ambiental, quero cadastrar, editar e visualizar novas áreas reflorestadas com informações detalhadas, para que o sistema possa monitorá-las corretamente.</td>
-                                        <td>1</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-1">LABS-1</a></td>
                                 </tr>
                                 <tr>
                                         <td>US02</td>
-                                        <td>-</td>
+                                        <td align="center">2</td>
                                         <td align="justify">Como produtor, quero visualizar minhas áreas de plantio atualizadas em um mapa interativo, para acompanhar a distribuição geográfica e evolução.</td>
-                                        <td>1</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-3">LABS-3</a></td>
                                 </tr>
                                 <tr>
                                         <td>US03</td>
-                                        <td>-</td>
+                                        <td align="center">-</td>
                                         <td align="justify">Como administrador, quero definir permissões de acesso para diferentes usuários (engenheiro ambiental e produtores), para garantir segurança e conformidade com a LGPD.</td>
-                                        <td>1</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-4">LABS-4</a></td>
                                 </tr>
                                 <tr>
                                         <td>US04</td>
-                                        <td>-</td>
+                                        <td align="center">3</td>
                                         <td align="justify">Como engenheiro ambiental, quero ter acesso a uma base de dados confiável sobre reflorestamento do Brasil com dados sobre características do solo e da área, para compreender as necessidades e possibilidades de um terreno para reflorestamento.</td>
-                                        <td>1</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-2">LABS-2</a></td>
                                 </tr>
                                 <tr>
                                         <td>US05</td>
-                                        <td>-</td>
-                                        <td align="justify">Como um engenheiro ambiental, quero que todas as ações do sistema sejam registradas em logs, para fins de auditoria e conformidade com a LGPD.</td>
-                                        <td>-</td>
+                                        <td align="center">-</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero que as ações do sistema estejam em conformidade com a LGPD.</td>
+                                        <td align="center">-</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-26">LABS-26</a></td>
                                 </tr>
                                 <tr>
                                         <td>US06</td>
-                                        <td>-</td>
+                                        <td align="center">1</td>
                                         <td align="justify">Como um engenheiro ambiental, quero receber recomendações sobre as melhores espécies para cada área, considerando as condições climáticas e características do solo, para garantir um reflorestamento eficiente.</td>
-                                        <td>-</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-31">LABS-31</a></td>
                                 </tr>
                                 <tr>
                                         <td>US07</td>
-                                        <td>-</td>
-                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de pragas ou mudanças ambientais adversas, para tomar medidas preventivas.</td>
-                                        <td>-</td>
+                                        <td align="center">4</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de condições ambientais adversas, para tomar medidas preventivas.</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-32">LABS-32</a></td>
                                 </tr>
                                 <tr>
                                         <td>US08</td>
-                                        <td>-</td>
+                                        <td align="center">1</td>
                                         <td align="justify">Como um produtor, quero visualizar diferentes estratégias de plantio, para avaliar seus impactos antes de implementar mudanças.</td>
-                                        <td>-</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-33">LABS-33</a></td>
                                 </tr>
                                 <tr>
                                         <td>US09</td>
-                                        <td>-</td>
-                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento produtividade e riscos, para facilitar a tomada de decisão.</td>
-                                        <td>-</td>
+                                        <td align="center">4</td>
+                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento de áreas sob riscos, para facilitar a tomada de decisão.</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-35">LABS-35</a></td>
                                 </tr>
                                 <tr>
                                         <td>US10</td>
-                                        <td>-</td>
+                                        <td align="center">4</td>
                                         <td align="justify">Como um analista ambiental, quero gerar relatórios sobre o reflorestamento.</td>
-                                        <td>-</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-36">LABS-36</a></td>
                                 </tr>
                         </tbody>
                 </table>
